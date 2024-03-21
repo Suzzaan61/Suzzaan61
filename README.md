@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzzaan61&label=Profile%20views&color=0e75b6&style=flat" alt="suzzaan61" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sujanghimire61" target="blank"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sujanghimire61" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sujanghimire61" target="blank"><img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="sujanghimire61" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 
